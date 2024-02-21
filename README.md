@@ -4,7 +4,7 @@ Insert and update batch (bulk) in hyperf
 # From
 modify from mavinoo/laravel-batch,a coroutine-based
 # Install
-`composer require ylnwqm/hyperf-batch`
+`composer require imactool/hyperf-batch`
 
 # Example Update 1
 
